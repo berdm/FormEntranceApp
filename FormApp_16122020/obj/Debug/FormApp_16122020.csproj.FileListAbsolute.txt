@@ -1,0 +1,11 @@
+C:\Users\BUKET\source\repos\FormApp_16122020\FormApp_16122020\bin\Debug\FormApp_16122020.exe.config
+C:\Users\BUKET\source\repos\FormApp_16122020\FormApp_16122020\bin\Debug\FormApp_16122020.exe
+C:\Users\BUKET\source\repos\FormApp_16122020\FormApp_16122020\bin\Debug\FormApp_16122020.pdb
+C:\Users\BUKET\source\repos\FormApp_16122020\FormApp_16122020\obj\Debug\FormApp_16122020.csprojAssemblyReference.cache
+C:\Users\BUKET\source\repos\FormApp_16122020\FormApp_16122020\obj\Debug\FormApp_16122020.frmMain.resources
+C:\Users\BUKET\source\repos\FormApp_16122020\FormApp_16122020\obj\Debug\FormApp_16122020.Properties.Resources.resources
+C:\Users\BUKET\source\repos\FormApp_16122020\FormApp_16122020\obj\Debug\FormApp_16122020.csproj.GenerateResource.cache
+C:\Users\BUKET\source\repos\FormApp_16122020\FormApp_16122020\obj\Debug\FormApp_16122020.csproj.CoreCompileInputs.cache
+C:\Users\BUKET\source\repos\FormApp_16122020\FormApp_16122020\obj\Debug\FormApp_16122020.exe
+C:\Users\BUKET\source\repos\FormApp_16122020\FormApp_16122020\obj\Debug\FormApp_16122020.pdb
+C:\Users\BUKET\source\repos\FormApp_16122020\FormApp_16122020\obj\Debug\FormApp_16122020.frmEntrance.resources
